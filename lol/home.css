@@ -1,0 +1,120 @@
+#partx{
+    background-image:URL("https://thumbs.dreamstime.com/b/apple-macbook-pro-modern-apple-iphone-together-banner-apple-production-background-business-office-table-apple-macbook-pro-240941679.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    margin-left: -10px;
+    margin-top: -10%;
+    margin-right: -10px;
+ 
+    
+}
+#part1 img{
+width: 45px;
+
+}
+#part4{
+    margin-block: 50px;
+}
+#part3 ul{
+list-style-type: none;
+}
+#part3 ul li {
+display: inline-block;
+}
+#part3 ul li a {
+    text-decoration: none;
+    margin: 10px;
+    color :white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:solid;
+}
+#part3 ul li a:hover{
+    color:rgb(199, 135, 18);
+}
+#part3 img{
+    margin:-10px
+}
+#part3 #pic1,#part3 #pic2{
+    width: 30px;
+    
+}
+#part1{
+    display:flex;
+    justify-content: space-between;
+   
+}
+#part0{
+  margin:10px;
+  margin-left:30px;
+}
+#part2{
+    margin:20px;
+    margin-left: 300px;
+}
+#part3{
+    margin: 8px;
+    margin-right: 50px;
+}
+#part3 img{
+    padding-inline:10px;
+}
+#pic1{
+    padding-inline: 10px;
+}
+#part4{
+    margin-top:10%;
+    margin-left:60%;
+ 
+  overflow: hidden;
+}
+#part4 p{
+    padding-inline: 130px;
+    color:aliceblue;
+    position: sticky;
+}
+#part4 h1{
+    font-family: "copperplate",fantasy;
+    font-size: 50px;
+    
+}
+#part4 span{
+    color:rgb(15, 117, 15);
+}
+#part2 input{
+    border-radius: 20px;
+}
+#part5{
+    margin-left: 1000px;
+    margin-top: 80px;
+    text-align: center;
+}
+#part5 h1{
+    font-family:'Franklin Gothic Medium', 'copperplate', Arial, fantasy;   
+}
+#part6{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+.box{
+    width: 15%;
+}
+#part8{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+.box{
+    width: 15%;
+}
+
+#part7{
+    margin-left: 1000px;
+    margin-top: 80px;
+    text-align: center;
+}
+#part7 h1{
+    font-family:'Franklin Gothic Medium', 'copperplate', Arial, fantasy;   
+}
